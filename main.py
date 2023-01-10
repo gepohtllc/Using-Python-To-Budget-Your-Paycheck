@@ -1,4 +1,6 @@
-print("50/30/20 - Using Python To Budget Your Paycheck \n")
+print("Using Python To Budget Your Paycheck \n")
+
+print("INTRODUCTION: Based on Elizabeth Warren's '50/30/20' rules, this program will take your after tax income and divvy it up into three categories: 'wants', 'needs', and 'savings'. Happy saving! \n")
 
 after_tax_income = float(input("Enter your after tax income: ")) #this variable takes the user's input and converts it into a float.
 
